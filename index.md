@@ -1,1 +1,1 @@
-# Adaptive Robotic System For Chemistry Laboratory Automation
+# An Adaptive Robotic Framework for Chemistry Lab Automation
