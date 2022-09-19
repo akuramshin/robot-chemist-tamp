@@ -1,4 +1,4 @@
-# An Adaptive Robotic Framework for Chemistry Lab Automation
+
 [gif]
 
 **Abstract.** 
