@@ -1,5 +1,5 @@
 
-![](media/gif.mp4)
+https://user-images.githubusercontent.com/42728866/192120873-9bbca722-c9a9-49c2-bc75-6980c20dccc8.mp4
 
 **Abstract.** 
 In the process of materials discovery, chemists currently need to perform many laborious, time-consuming, and often dangerous lab experiments. 
@@ -12,4 +12,5 @@ Our system can load high-level descriptions of chemistry experiments, perceive a
 
 
 ## Video
-![](media/AccompanyingVideoSubmission-HD2.mp4)
+https://user-images.githubusercontent.com/42728866/192120896-f9b683aa-f549-4798-b34f-1e995a40cc34.mp4
+
