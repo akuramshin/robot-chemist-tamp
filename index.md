@@ -1,5 +1,5 @@
 
-[gif]
+![](./media/gif.gif)
 
 **Abstract.** 
 In the process of materials discovery, chemists currently need to perform many laborious, time-consuming, and often dangerous lab experiments. 
@@ -12,3 +12,4 @@ Our system can load high-level descriptions of chemistry experiments, perceive a
 
 
 ## Video
+![](.media/AccompanyingVideoSubmission-HD2.mp4)
