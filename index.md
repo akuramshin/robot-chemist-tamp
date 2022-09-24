@@ -1,5 +1,5 @@
 
-![](./media/gif.mp4)
+![](media/gif.mp4)
 
 **Abstract.** 
 In the process of materials discovery, chemists currently need to perform many laborious, time-consuming, and often dangerous lab experiments. 
@@ -8,8 +8,8 @@ The solution allows a general-purpose robot to perform diverse chemistry experim
 Our system can load high-level descriptions of chemistry experiments, perceive a dynamic workspace, and autonomously plan the required actions and motions to perform the given chemistry experiments with common tools found in the existing lab environment. Our architecture uses a modified PDDLStream solver for integrated task and constrained motion planning, which generates plans and motions that are guaranteed to be safe by preventing collisions and spillage. We present a modular framework that can scale to many different experiments, actions, and lab tools. In this work, we demonstrate the utility of our framework on three pouring skills and two foundational chemical experiments for materials synthesis: solubility and recrystallization.
 
 ## Framework for Robot-assisted Chemical Synthesis
-![](./media/architecture.jpg)
+![](media/architecture.jpg)
 
 
 ## Video
-![](./media/AccompanyingVideoSubmission-HD2.mp4)
+![](media/AccompanyingVideoSubmission-HD2.mp4)
