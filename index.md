@@ -15,6 +15,6 @@ Our system can load high-level descriptions of chemistry experiments, perceive a
 
 
 ## Video
-![](https://user-images.githubusercontent.com/42728866/194083897-c4cd8ee2-0952-41d4-83e9-f7abcdc1abef.mp4)
+https://user-images.githubusercontent.com/17707730/199334543-3f082b7a-8119-4103-bdc7-9b2b26f1ce06.mp4
 
 
