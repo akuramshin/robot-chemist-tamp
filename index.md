@@ -1,5 +1,8 @@
 
-![](/media/gif.mp4)
+
+<p align="center">
+  <img width="" height="" src="https://user-images.githubusercontent.com/17707730/199335776-9ddc17f8-1476-4e61-991c-f0687e4dd4d8.gif">
+</p>
 
 **Abstract.** 
 In the process of materials discovery, chemists currently need to perform many laborious, time-consuming, and often dangerous lab experiments. 
