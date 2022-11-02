@@ -17,6 +17,6 @@ Our system can load high-level descriptions of chemistry experiments, perceive a
 ## Video
   
 <div align="center">
-<iframe width="100%" height="56.25%" src="https://user-images.githubusercontent.com/17707730/199334543-3f082b7a-8119-4103-bdc7-9b2b26f1ce06.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://user-images.githubusercontent.com/17707730/199334543-3f082b7a-8119-4103-bdc7-9b2b26f1ce06.mp4" title="Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
