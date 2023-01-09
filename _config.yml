@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: "An Adaptive Robotics Framework for Chemistry Lab Automation"
+show_arxiv: true
+
