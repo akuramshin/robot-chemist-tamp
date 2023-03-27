@@ -184,16 +184,55 @@
         <!-- Your image here -->
         <img src="static/images/architecture_with_turbidity.png" alt="MY ALT TEXT"/>
       </div>
-      <h2 class="subtitle has-text-justified">
-        We've developed a new framework for robot-assisted chemical synthesis that includes Perception, Task & Motion Planning, and Skills blocks. This framework allows robots to utilize available lab devices (such as sensors and actuators) by adding them to the robot network via ROS. The robot is also equipped with an extra degree of freedom at its end-effector, enabling it to perform constrained motions. Our framework receives the chemical synthesis goal in XDL format, and converts the procedure component into corresponding PDDL goals. The hardware and reagents components then identify the necessary initial conditions for synthesis. Perception is used to detect objects, estimate their positions and contents in the workspace, and monitor task progress. Finally, PDDLStream generates a sequence of actions for the robot to execute.      </h2>
+      <div class="content has-text-justified">
+        <p>
+        We've developed a new framework for robot-assisted chemical synthesis that includes Perception, Task & Motion Planning, and Skills blocks. This framework allows robots to utilize available lab devices (such as sensors and actuators) by adding them to the robot network via ROS. The robot is also equipped with an extra degree of freedom at its end-effector, enabling it to perform constrained motions. Our framework receives the chemical synthesis goal in XDL format, and converts the procedure component into corresponding PDDL goals. The hardware and reagents components then identify the necessary initial conditions for synthesis. Perception is used to detect objects, estimate their positions and contents in the workspace, and monitor task progress. Finally, PDDLStream generates a sequence of actions for the robot to execute.
+        </p>
+      </div>
     </div>
-</div>
-</div>
+  </div>
 </section>
 <!-- End image carousel -->
 
+<section class="hero is-light">
+  <div class="hero-body">
+    <h2 class="title is-3 has-text-centered">Constrained Task and Motion Planning</h2>
+    <div class="container">
+      <div class="columns">
+      <div class="column is-three-fifths">
+        <p>
+        In a chemistry lab, the robot tends to carry beakers that contain liquids inside. Spillage avoidance should be considered in generating robot motions. Our framework integrates constrained motion planner with task and motion planning module and realized spillage-free robot motion.
+        </p>
+      </div>
+      <div class="column is-two-fifths">
+        <img src="static/images/constrained_motion_planning.gif" alt="Constrained motion planning" width="600" hheight="338"/>
+      </div>
+    </div>
+  </div>
+</section>
 
-
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <h2 class="title is-3 has-text-centered">Pouring skill</h2>
+    <div class="container">
+      <div class="columns">
+      <div class="column is-three-fifths">
+        <p>
+        Liquid transfer is one of the essential skills used in a chemistry lab. A pouring skill that intermittently rotates the container is implemented. This pouring strategy compensates the delayed feedback from the scale and outperformed PD controller.
+        </p>
+      </div>
+      <div class="column is-one-fifth">
+        <img src="static/images/pouring_water.gif" alt="Water pouring"/>
+      </div>
+      <div class="column is-one-fifth">
+        <img src="static/images/pouring_salt.gif" alt="Water pouring"/>
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+<!-- End image carousel -->
 
 <!-- Youtube video -->
 <section class="hero is-small is-light">
